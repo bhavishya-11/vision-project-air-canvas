@@ -44,6 +44,14 @@ Vision Air Canvas is a real-time computer vision project that allows users to dr
    ```bash
    git clone https://github.com/bhavishya-11/vision-air-canvas.git
    cd vision-air-canvas
+2. Install dependencies:
+   ```bash
+   pip install opencv-python mediapipe numpy
+3. Run the app:
+   ```bash
+   python air_canvas.py
+4. Use the Tkinter GUI window to START or STOP the app.
+
 ## 👨‍💻 Authors
 
 ### 🧠 Bhavishya Chauhan  
